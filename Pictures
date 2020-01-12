@@ -1,0 +1,110 @@
+/******************************************************************************
+
+                              Online C++ Compiler.
+               Code, Compile, Run and Debug C++ program online.
+Write your code in this editor and press "Run" button to compile and execute it.
+
+*******************************************************************************/
+
+#include <iostream>
+
+using namespace std;
+
+int
+main ()
+{
+cout<<"    ,   ,"<<endl;
+cout<<"   /////|"<<endl;
+cout<<"  ///// |"<<endl;
+cout<<" /////  |"<<endl;
+cout<<"|~~~|   |"<<endl;
+cout<<"|===|  +|"<<endl;
+cout<<"| C | + |"<<endl;
+cout<<"| + |C  |"<<endl;
+cout<<"| + | 1 |"<<endl;
+cout<<"| # |# /"<<endl;
+cout<<"| 1 | /"<<endl;
+cout<<"|===|/"<<endl;
+cout<<"'---'  By:Christopher Johnson"<<endl;
+
+cout<<"    ,   ,"<<endl;
+cout<<"   /////|"<<endl;
+cout<<"  ///// |"<<endl;
+cout<<" /////  |"<<endl;
+cout<<"|~~~|   |"<<endl;
+cout<<"|===|  +|"<<endl;
+cout<<"| C | + |"<<endl;
+cout<<"| + |C  |"<<endl;
+cout<<"| + | 2 |"<<endl;
+cout<<"| # |# /"<<endl;
+cout<<"| 2 | /"<<endl;
+cout<<"|===|/"<<endl;
+cout<<"'---'  By:Christopher Johnson"<<endl;
+
+cout<<"    ,   ,"<<endl;
+cout<<"   /////|"<<endl;
+cout<<"  /////+|"<<endl;
+cout<<" /////+ |"<<endl;
+cout<<"|~~~|c  |"<<endl;
+cout<<"| C |   |"<<endl;
+cout<<"| + |   |"<<endl;
+cout<<"| + |  W|"<<endl;
+cout<<"|NEW| E |"<<endl;
+cout<<"|EDI|N /"<<endl;
+cout<<"|TIO| /"<<endl;
+cout<<"| N |/"<<endl;
+cout<<"'---'  By:Christopher Johnson"<<endl;
+
+cout<<"   ,   ,"<<endl;
+cout<<"  /////|"<<endl;
+cout<<" /////+|"<<endl;
+cout<<" /////+ |"<<endl;
+cout<<"|~~~|c  |"<<endl;
+cout<<"| C |  E|"<<endl;
+cout<<"| + |  L|"<<endl;
+cout<<"| + |  I|"<<endl;
+cout<<"| E |  T|"<<endl;
+cout<<"| L |  E|"<<endl;
+cout<<"| I |  /"<<endl;
+cout<<"| T | /"<<endl;
+cout<<"| E |/"<<endl;
+cout<<"'---"<<endl;
+cout<<"          By:Christopher Johnson"<<endl;
+ 
+
+cout<<"  _____________________________________"<<endl;
+cout<<" |                 ()                  |"<<endl;
+cout<<" |             =========               |"<<endl;
+cout<<" |_____________________________________|"<<endl;
+cout<<" |  ___________         ___________    |"<<endl;
+cout<<" | | #1        |       | #2        |   |"<<endl;
+cout<<" | | Decagon   |       | Decagon   |   |"<<endl;
+cout<<" | | Amazon    |       |Calculator |   |"<<endl;
+cout<<" | |___________|       |___________|   |"<<endl;
+cout<<" |  ___________         ___________    |"<<endl;
+cout<<" | | #3        |       | #4        |   |"<<endl;
+cout<<" | |Math       |       | Decagon   |   |"<<endl;
+cout<<" | |Learning   |       |Transaltor |   |"<<endl;
+cout<<" | |___________|       |___________|   |"<<endl;
+cout<<" |  ___________         ___________    |"<<endl;
+cout<<" | | #5        |       | #6        |   |"<<endl;
+cout<<" | |   Guess   |       | Mad       |   |"<<endl;
+cout<<" | |  the  #   |       | Libs      |   |"<<endl;
+cout<<" | |___________|       |___________|   |"<<endl;
+cout<<" |_____________________________________|"<<endl;
+cout<<" |                ___                  |"<<endl;
+cout<<" |               |   |                 |"<<endl;
+cout<<" |               |___|                 |"<<endl;
+cout<<" |_____________________________________|"<<endl;
+
+
+/*------------------------------------------------
+Thank you for visiting https://asciiart.website/
+This ASCII pic can be found at
+https://asciiart.website/index.php?art=objects/books
+------------------------------------------------*/
+
+
+    return 0;
+}
+

@@ -1,0 +1,53 @@
+/******************************************************************************
+
+                              Online C++ Compiler.
+               Code, Compile, Run and Debug C++ program online.
+Write your code in this editor and press "Run" button to compile and execute it.
+
+*******************************************************************************/
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+cout<<"     ________ ";
+cout<<"  __(_____  <|"; 
+cout<<" (____ / <| <|";
+cout<<" (___ /  <| L`-------.";
+cout<<" (__ /   L`--------.  \";
+cout<<" /  `.    ^^^^^ |   \  |";
+cout<<"|     \---------'    |/";
+cout<<"|______|____________/]";
+cout<<"[_____|`-.__________]""; By: Christpoher Johnson
+
+cout<<"              )
+cout<<"             (_)
+cout<<"            .-'-.
+cout<<"            |   |
+cout<<"            |   |
+cout<<"            |   |
+cout<<"            |   |
+cout<<"          __|   |__   .-.
+cout<<"       .-'  |   |  `-:   :
+cout<<"      :     `---'     :-'
+cout<<"      `-._       _.-'   By: Christpoher Johnson
+cout<<"           '""""""
+
+------------------------------------------------
+Thank you for visiting https://asciiart.website/
+This ASCII pic can be found at
+https://asciiart.website/index.php?art=objects/candles
+
+
+
+
+------------------------------------------------
+Thank you for visiting https://asciiart.website/
+This ASCII pic can be found at
+https://asciiart.website/index.php?art=objects/footwear
+";
+
+    return 0;
+}

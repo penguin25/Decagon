@@ -1,0 +1,73 @@
+/******************************************************************************
+
+                              Online C++ Compiler.
+               Code, Compile, Run and Debug C++ program online.
+Write your code in this editor and press "Run" button to compile and execute it.
+
+*******************************************************************************/
+#include <iostream>
+using namespace std;
+int main()
+{
+    string time, Noun1,Noun2,Celeberity,vehicle,animal,name,number1,fastFoodPlace,food1,food2,liquid,place,cleaningProduct,Number2,Name2,colour,PluralNoun,Emotion; 
+    
+    cout<< "enter a time: ";
+    getline(cin, time);
+    cout<< "enter a noun: ";
+    getline(cin, Noun1);
+    cout<< "enter a noun: ";
+    getline(cin, Noun2);
+    cout<< "enter a Celeberity: ";
+    getline(cin, Celeberity);
+    cout<< "enter a vehicle: ";
+    getline(cin, vehicle);
+    cout<< "enter a animal: ";
+    getline(cin, animal);
+    cout<< "enter a name: ";
+    getline(cin, name);
+    cout<< "enter a number: ";
+    getline(cin, number1);
+    cout<< "enter a fast food place: ";
+    getline(cin, fastFoodPlace);
+    cout<< "enter a food: ";
+    getline(cin, food1);
+    cout<< "enter a food: ";
+    getline(cin, food2);
+    cout<< "enter a liquid: ";
+    getline(cin, liquid);
+    cout<< "enter a place: ";
+    getline(cin, place);
+    cout<< "enter a cleaning product: ";
+    getline(cin, cleaningProduct);
+    cout<< "enter a number: ";
+    getline(cin, Number2);
+    cout<< "enter a name: ";
+    getline(cin, Name2);
+    cout<< "enter a colour: ";
+    getline(cin, colour);
+    cout<< "enter a Plural Noun: ";
+    getline(cin, PluralNoun);
+    cout<< "enter an Emotion: ";
+    getline(cin, Emotion);
+    
+    
+    cout<<"Today, I went to my first Hackathon, I woke up at " <<time<< "AM" << endl;
+  cout<<"I packed a " <<Noun1<<" and a " <<Noun2<< " in my bag to bring to the event " << endl;
+  cout<<"Me and my teamate " <<Celeberity<< " came here in a " <<vehicle<< endl;
+  cout<<"We decided to code a robot " <<animal<< endl;
+  cout<<"The robot's name is " <<name<< endl;
+  cout<<"After a while, we went to go eat lunch." << endl;
+  cout<<"We walked " <<number1<< " kilometers to get to " << fastFoodPlace<< endl;
+  cout<<"I got a delicious " <<food1<< " and " <<food2<< " smoothie " << endl;
+  cout<<"we walked back than kept working  on our robot." << endl;
+  cout<<"Then, some "<<liquid<< " spills on my shirt!." << endl;
+  cout<<"I run to the " <<place<< " to wash it off I scrubed with some " <<cleaningProduct<< " and it came off." << endl;
+  cout<<Number2<<" hours later we finished our project." << endl;
+  cout<<"We set up our project and a judge named  " <<Name2<< "came to see our robot" <<endl;
+  cout<<"The judge was wearing a " <<colour<< " shirt with some pants with " <<PluralNoun<< " on them," << endl;
+  cout<<" we were so " <<Emotion<< " about our work";
+ return 0;
+    
+}  
+    
+
